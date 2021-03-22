@@ -14,4 +14,6 @@ Source code for project [here](https://github.com/emildien9572/ProgrammingPortfo
 
 A functioning calculator made in Processing winter 2020.
 
-![Calculator]()
+![Calculator1](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/Calculator1.png)
+
+Sourcecode for project [here]()
