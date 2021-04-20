@@ -6,7 +6,7 @@
 
 An OOP space shooter game made in Processing winter 2020.
 
-![UML Project]
+![UML Project](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/UML%20Project.jpg)
 
 ![SpaceGame](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame.png)
 
