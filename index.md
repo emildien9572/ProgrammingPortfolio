@@ -28,3 +28,11 @@ An application that replicates an etch-A-sketch made in Processing.
 ![etchAsketch](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/etchAsketch.png?raw=true)
 
 Source code for project [here](https://github.com/emildien9572/ProgrammingPortfolio/tree/gh-pages/src/etchAsketch). A Windows executable can be downloaded [here](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/src/etchAsketch/application.windows64.zip).
+
+### Question Generator
+
+An application that asks thought-provoking questions and stores the input in a file written in Java.
+
+![QuestionStoring](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/QuestionStoring.png?raw=true)
+
+Source code for project [here](https://github.com/emildien9572/ProgrammingPortfolio/tree/gh-pages/src/QuestionStoring).
