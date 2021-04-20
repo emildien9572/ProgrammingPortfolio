@@ -6,16 +6,16 @@
 
 An OOP space shooter game made in Processing winter 2020.
 
-![UML Project](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/UML%20Project.jpg)
+![UML Project](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/UML%20Project.jpg?raw=true)
 
-![SpaceGame](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame.png)
+![SpaceGame](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
 
 Source code for project [here](https://github.com/emildien9572/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame).
 
 ### Calculator
 
-A functioning calculator made in Processing winter 2020.
+An OOP functioning calculator made in Processing winter 2020.
 
-![Calculator1](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/Calculator1.png)
+![Calculator](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/Calculator.png?raw=true)
 
 Sourcecode for project [here](https://github.com/emildien9572/ProgrammingPortfolio/tree/gh-pages/src/Calculator)
