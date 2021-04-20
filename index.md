@@ -6,6 +6,8 @@
 
 An OOP space shooter game made in Processing winter 2020.
 
+![UML Project]
+
 ![SpaceGame](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame.png)
 
 Source code for project [here](https://github.com/emildien9572/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame).
