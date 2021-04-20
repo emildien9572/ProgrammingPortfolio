@@ -1,4 +1,5 @@
-# Programming 1 Portfolio 2020-2021
+# Emily Diener's Programming Portfolio 2021
+Type a bio. [Emily Diener](mailto:eradiener@gmail.com)
 
 ## Processing Projects
 
