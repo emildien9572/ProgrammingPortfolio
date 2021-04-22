@@ -31,7 +31,7 @@ Source code for project [here](https://github.com/emildien9572/ProgrammingPortfo
 
 ### Question Generator
 
-An application that asks thought-provoking questions and stores the input in a file written in Java.
+An application that asks thought-provoking questions and stores the input in a file made in Java.
 
 ![QuestionStoring](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/QuestionStoring.png?raw=true)
 
@@ -39,7 +39,7 @@ Source code for project [here](https://github.com/emildien9572/ProgrammingPortfo
 
 ### Madlibs App
 
-An application that asks for parts of speech to complete a passage written in Java.
+An application that asks for parts of speech to complete a passage made in Java.
 
 ![Madlibs](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/Madlibs.png?raw=true)
 
