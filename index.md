@@ -36,3 +36,11 @@ An application that asks thought-provoking questions and stores the input in a f
 ![QuestionStoring](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/QuestionStoring.png?raw=true)
 
 Source code for project [here](https://github.com/emildien9572/ProgrammingPortfolio/tree/gh-pages/src/QuestionStoring).
+
+### Madlibs App
+
+An application that asks for parts of speech to complete a passage written in Java.
+
+![Madlibs](https://github.com/emildien9572/ProgrammingPortfolio/blob/gh-pages/images/Madlibs.png?raw=true)
+
+Source code for project [here](https://github.com/emildien9572/ProgrammingPortfolio/tree/gh-pages/src/MadlibsApp).
